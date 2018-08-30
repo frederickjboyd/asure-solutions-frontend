@@ -1,0 +1,8 @@
+.slideshowContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.slideshow {
+  opacity: 0.3;
+}
