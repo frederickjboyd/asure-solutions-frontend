@@ -17,4 +17,9 @@
   font-family: 'arial';
   padding: 0 30px;
   color: #181818;
+  text-decoration: none;
+}
+
+.nav:hover {
+  text-decoration: underline;
 }

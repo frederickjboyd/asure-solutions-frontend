@@ -6,3 +6,14 @@
 .slideshow {
   opacity: 0.3;
 }
+
+.imageText {
+  position: absolute;
+  left: 10%;
+  right: 10%;
+}
+
+p {
+  text-align: center;
+  font-family: cursive;
+}
