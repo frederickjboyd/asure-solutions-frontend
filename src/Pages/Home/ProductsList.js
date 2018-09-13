@@ -7,7 +7,7 @@ export default class ProductsList extends Component {
   render() {
     return (
       <div className="listContainer">
-        <h2>Quick Draw Light and Timing Device</h2>
+        <h1>Quick Draw Light and Timing Device</h1>
         <div className="imageContainer">
           <Link to="/products">
             <img

@@ -1,3 +1,9 @@
+h1 {
+  font-family: Raleway, sans-serif;
+  font-size: 48;
+  font-weight: 700;
+}
+
 .listContainer {
   display: flex;
   flex-direction: column;
