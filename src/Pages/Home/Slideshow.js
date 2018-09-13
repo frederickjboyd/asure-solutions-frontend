@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Slideshow.css';
-import slideshow1 from '../assets/slideshow/slideshow1.png';
+import slideshow1 from '../../assets/slideshow/slideshow1.png';
 
 export default class Slideshow extends Component {
   render() {

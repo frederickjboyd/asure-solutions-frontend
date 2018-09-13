@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Header.css';
+import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
 
 export default class Header extends Component {
@@ -8,10 +9,18 @@ export default class Header extends Component {
       <div className="container">
         <img src={logo} alt="logo" className="logo" />
         <div>
-          <a className="nav">home</a>
-          <a className="nav">products</a>
-          <a className="nav">about us</a>
-          <a className="nav">contact</a>
+          <Link to="/" className="nav">
+            home
+          </Link>
+          <Link to="/products" className="nav">
+            products
+          </Link>
+          <Link to="/about" className="nav">
+            about us
+          </Link>
+          <Link to="/contact" className="nav">
+            contact
+          </Link>
         </div>
       </div>
     );
