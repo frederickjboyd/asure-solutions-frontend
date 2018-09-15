@@ -1,0 +1,39 @@
+.technicalDetailsContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 150px;
+}
+
+.rowWhite {
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  padding: 24px 40px;
+}
+
+.rowGrey {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding: 24px 40px;
+}
+
+.technicalDetailsContainer h1 {
+  font-family: Raleway, sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  color: #2a2a2a;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.technicalDetailsContainer p {
+  font-family: Raleway, sans-serif;
+  font-size: 48px;
+  color: #373737;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}

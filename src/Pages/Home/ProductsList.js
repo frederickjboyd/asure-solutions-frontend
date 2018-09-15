@@ -10,11 +10,7 @@ export default class ProductsList extends Component {
         <h1>Quick Draw Light and Timing Device</h1>
         <div className="imageContainer">
           <Link to="/products">
-            <img
-              src={LTD}
-              alt="Light and Timing Device"
-              className="productImage"
-            />
+            <img src={LTD} alt="Light and Timing Device" />
           </Link>
         </div>
       </div>
