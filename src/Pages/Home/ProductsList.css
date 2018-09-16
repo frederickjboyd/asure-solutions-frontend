@@ -5,10 +5,16 @@
   margin: 100px 0;
 }
 
+.listContainer .Link {
+  text-decoration: none;
+}
+
 .listContainer h1 {
   font-family: Raleway, sans-serif;
-  font-size: 48;
+  font-size: 44px;
   font-weight: 700;
+  color: #2a2a2a;
+  text-decoration: none;
 }
 
 .imageContainer {
@@ -17,8 +23,8 @@
   width: 50%;
   border-radius: 21px;
   background-color: transparent;
-  -webkit-transition: all 250ms ease-out;
-  transition: all 250ms ease-out;
+  -webkit-transition: background-color 250ms ease-out;
+  transition: background-color 250ms ease-out;
 }
 
 .imageContainer:hover {
@@ -28,4 +34,8 @@
 .imageContainer img {
   max-width: 100%;
   max-height: 100%;
+}
+
+#LTD-link {
+  text-decoration: none;
 }

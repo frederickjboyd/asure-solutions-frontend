@@ -37,7 +37,7 @@ const LTD_TECHNICAL_DETAILS = [
   },
   {
     metric: 'Weight',
-    value: '1.2kg'
+    value: '1.2 kg'
   },
   {
     metric: 'Battery Life',

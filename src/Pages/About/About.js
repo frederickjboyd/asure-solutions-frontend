@@ -7,16 +7,18 @@ export default class About extends Component {
     return (
       <div className="aboutContainer">
         <div className="groupPhotoContainer">
-          <img src={GroupPhoto} alt="Group" className="groupPhoto" />
+          <img src={GroupPhoto} alt="Group" />
         </div>
         <div className="aboutDescriptionContainer">
           <h2>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur.
+            We are a group of second year engineering students from the
+            University of Toronto, with the ultimate goal of making a positive
+            and meaningful impact on the community. With the key focus on
+            accessibility, our team will collaborate with you to explore
+            potential opportunities for engineering design. Following that, we
+            will apply our team members’ distinct values, beliefs, and skill
+            sets to carry out an innovative solution to enhance your community’s
+            experience.
           </h2>
         </div>
       </div>

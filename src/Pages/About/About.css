@@ -8,19 +8,19 @@
   width: 35%;
 }
 
-.groupPhoto {
+.groupPhotoContainer img {
   width: 100%;
 }
 
 .aboutDescriptionContainer {
-  width: 60%;
+  width: 50%;
 }
 
-.aboutDescriptionContainer {
+.aboutDescriptionContainer h2 {
   text-align: center;
   font-family: Raleway, sans-serif;
-  font-size: 26px;
+  font-size: 36px;
   font-weight: 500;
   color: #373737;
-  line-height: 200%;
+  line-height: 175%;
 }

@@ -1,0 +1,18 @@
+.contactContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactContainer img {
+  max-width: 445px;
+  max-height: 445px;
+}
+
+.contactContainer h1 {
+  font-family: Raleway, sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  color: #373737;
+  margin-left: 75px;
+}

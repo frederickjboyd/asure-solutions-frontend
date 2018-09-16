@@ -2,7 +2,7 @@
   max-height: 100px;
 }
 
-.container {
+.headerContainer {
   display: flex;
   box-sizing: border-box;
   justify-content: space-between;
@@ -10,13 +10,13 @@
   flex-direction: row;
   padding: 25px 50px;
   height: 150px;
-  background-color: white;
 }
 
 .nav {
   font-family: Open Sans, sans-serif;
+  font-size: 20px;
+  color: #4f4f4f;
   padding: 0 30px;
-  color: #181818;
   text-decoration: none;
 }
 
