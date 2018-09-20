@@ -1,7 +1,7 @@
 # asure-solutions-frontend
 
 Frontend website for ASURE Solutions, built in React. You can visit the live
-website at asuresolutions.com.
+website at http://asuresolutions.com.
 
 ## Project Setup
 
