@@ -4,21 +4,35 @@ import { LTD_DETAILS } from '../../shared/constants/productDetails';
 
 export default class Details extends Component {
   render() {
-    let detailsContainer;
+    let detailsContainer, titleWrapper;
 
     return (
       <div>
         {LTD_DETAILS.map(item => {
-          item.alignRight
-            ? (detailsContainer = 'detailsContainerRight')
-            : (detailsContainer = 'detailsContainer');
+          if (item.alignRight) {
+            detailsContainer = 'detailsContainerRight';
+            titleWrapper = 'titleWrapperRight';
+          } else {
+            detailsContainer = 'detailsContainer';
+            titleWrapper = 'titleWrapper';
+          }
+          // item.alignRight
+          //   ? (detailsContainer = 'detailsContainerRight')
+          //   : (detailsContainer = 'detailsContainer');
           return (
             <div className={detailsContainer}>
               <div className="detailWrapper">
-                <div className="titleWrapper">
-                  <img src={item.img} alt="icon" />
-                  <h3>{item.title}</h3>
-                </div>
+                {item.alignRight ? (
+                  <div className={titleWrapper}>
+                    <h3>{item.title}</h3>
+                    <img src={item.img} alt="icon" />
+                  </div>
+                ) : (
+                  <div className={titleWrapper}>
+                    <img src={item.img} alt="icon" />
+                    <h3>{item.title}</h3>
+                  </div>
+                )}
                 <p>{item.description}</p>
               </div>
             </div>

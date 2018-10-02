@@ -29,6 +29,13 @@
   margin-bottom: 12px;
 }
 
+.titleWrapperRight {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
 .detailsContainer img {
   max-width: 76px;
   max-height: 76px;
@@ -40,6 +47,7 @@
   font-weight: 600;
   color: #373737;
   margin-left: 16px;
+  margin-right: 16px;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -60,8 +68,10 @@
   font-weight: 600;
   color: #373737;
   margin-left: 16px;
+  margin-right: 16px;
   margin-top: 0px;
   margin-bottom: 0px;
+  text-align: right;
 }
 
 .detailsContainerRight p {
@@ -71,4 +81,5 @@
   color: #929292;
   margin-top: 0px;
   margin-bottom: 0px;
+  text-align: right;
 }
