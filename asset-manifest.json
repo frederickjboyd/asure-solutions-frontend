@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/asure-solutions-frontend/static/css/main.7b17a251.chunk.css",
-    "main.js": "/asure-solutions-frontend/static/js/main.6097ba3a.chunk.js",
-    "main.js.map": "/asure-solutions-frontend/static/js/main.6097ba3a.chunk.js.map",
-    "runtime~main.js": "/asure-solutions-frontend/static/js/runtime~main.f31d0e9e.js",
-    "runtime~main.js.map": "/asure-solutions-frontend/static/js/runtime~main.f31d0e9e.js.map",
-    "static/js/2.b869df24.chunk.js": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js",
-    "static/js/2.b869df24.chunk.js.map": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js.map",
+    "main.css": "/asure-solutions-frontend/static/css/main.abd96b85.chunk.css",
+    "main.js": "/asure-solutions-frontend/static/js/main.77782a54.chunk.js",
+    "main.js.map": "/asure-solutions-frontend/static/js/main.77782a54.chunk.js.map",
+    "runtime-main.js": "/asure-solutions-frontend/static/js/runtime-main.52b0aa5a.js",
+    "runtime-main.js.map": "/asure-solutions-frontend/static/js/runtime-main.52b0aa5a.js.map",
+    "static/js/2.e503e0f9.chunk.js": "/asure-solutions-frontend/static/js/2.e503e0f9.chunk.js",
+    "static/js/2.e503e0f9.chunk.js.map": "/asure-solutions-frontend/static/js/2.e503e0f9.chunk.js.map",
     "index.html": "/asure-solutions-frontend/index.html",
-    "precache-manifest.557fd527b6cea905aad59f300a2b856a.js": "/asure-solutions-frontend/precache-manifest.557fd527b6cea905aad59f300a2b856a.js",
+    "precache-manifest.666cb3b7c2154a245af6ed40e4c69a00.js": "/asure-solutions-frontend/precache-manifest.666cb3b7c2154a245af6ed40e4c69a00.js",
     "service-worker.js": "/asure-solutions-frontend/service-worker.js",
-    "static/css/main.7b17a251.chunk.css.map": "/asure-solutions-frontend/static/css/main.7b17a251.chunk.css.map",
+    "static/css/main.abd96b85.chunk.css.map": "/asure-solutions-frontend/static/css/main.abd96b85.chunk.css.map",
+    "static/js/2.e503e0f9.chunk.js.LICENSE.txt": "/asure-solutions-frontend/static/js/2.e503e0f9.chunk.js.LICENSE.txt",
     "static/media/LTD.png": "/asure-solutions-frontend/static/media/LTD.85547eb4.png",
     "static/media/clock-line.svg": "/asure-solutions-frontend/static/media/clock-line.70dac5b9.svg",
     "static/media/firewall-line.svg": "/asure-solutions-frontend/static/media/firewall-line.df1b3594.svg",
@@ -19,5 +20,11 @@
     "static/media/logo.png": "/asure-solutions-frontend/static/media/logo.9dbb92a4.png",
     "static/media/shopping-bag-line.svg": "/asure-solutions-frontend/static/media/shopping-bag-line.532053d6.svg",
     "static/media/slideshow1.png": "/asure-solutions-frontend/static/media/slideshow1.e0e3ee1e.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b0aa5a.js",
+    "static/js/2.e503e0f9.chunk.js",
+    "static/css/main.abd96b85.chunk.css",
+    "static/js/main.77782a54.chunk.js"
+  ]
 }

@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83264221b9ea0a255a2e1869cfe4e3dd",
+    "revision": "fa7dc9d45e22a73474e816e07b7657b8",
     "url": "/asure-solutions-frontend/index.html"
   },
   {
-    "revision": "24773d56bc230878f786",
-    "url": "/asure-solutions-frontend/static/css/main.7b17a251.chunk.css"
+    "revision": "c7085c60db7682d9990d",
+    "url": "/asure-solutions-frontend/static/css/main.abd96b85.chunk.css"
   },
   {
-    "revision": "4e2a367bd33c23bd90e2",
-    "url": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js"
+    "revision": "af11a4c7815e8cc1dabf",
+    "url": "/asure-solutions-frontend/static/js/2.e503e0f9.chunk.js"
   },
   {
-    "revision": "24773d56bc230878f786",
-    "url": "/asure-solutions-frontend/static/js/main.6097ba3a.chunk.js"
+    "revision": "82b6ac8b2b10692ff48821cfc0e0141f",
+    "url": "/asure-solutions-frontend/static/js/2.e503e0f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0291283873f13933d767",
-    "url": "/asure-solutions-frontend/static/js/runtime~main.f31d0e9e.js"
+    "revision": "c7085c60db7682d9990d",
+    "url": "/asure-solutions-frontend/static/js/main.77782a54.chunk.js"
+  },
+  {
+    "revision": "b27f8f5b6fb942bb11f6",
+    "url": "/asure-solutions-frontend/static/js/runtime-main.52b0aa5a.js"
   },
   {
     "revision": "85547eb479ce6885925b6d2673ff4c87",
