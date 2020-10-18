@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d54d826594a79c43c9657777867ddd55",
+    "revision": "83264221b9ea0a255a2e1869cfe4e3dd",
     "url": "/asure-solutions-frontend/index.html"
   },
   {
-    "revision": "1ee1a510a5cf465b9441",
-    "url": "/asure-solutions-frontend/static/css/main.a000e6e0.chunk.css"
+    "revision": "24773d56bc230878f786",
+    "url": "/asure-solutions-frontend/static/css/main.7b17a251.chunk.css"
   },
   {
     "revision": "4e2a367bd33c23bd90e2",
     "url": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js"
   },
   {
-    "revision": "1ee1a510a5cf465b9441",
-    "url": "/asure-solutions-frontend/static/js/main.9ccb9eaa.chunk.js"
+    "revision": "24773d56bc230878f786",
+    "url": "/asure-solutions-frontend/static/js/main.6097ba3a.chunk.js"
   },
   {
     "revision": "0291283873f13933d767",
