@@ -1,24 +1,24 @@
 # asure-solutions-frontend
 
 Frontend website for ASURE Solutions, built in React. You can visit the live
-website at http://www.asuresolutions.com.
+website at https://frederickjboyd.github.io/asure-solutions-frontend/.
 
 ## Project Setup
 
 Install dependencies:
 
 ```
-yarn
+npm i
 ```
 
 Run development server:
 
 ```
-yarn start
+npm start
 ```
 
 Build for production:
 
 ```
-yarn build
+npm run build
 ```
