@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asure-solutions-frontend/static/css/main.a000e6e0.chunk.css",
+    "main.js": "/asure-solutions-frontend/static/js/main.9ccb9eaa.chunk.js",
+    "main.js.map": "/asure-solutions-frontend/static/js/main.9ccb9eaa.chunk.js.map",
+    "runtime~main.js": "/asure-solutions-frontend/static/js/runtime~main.f31d0e9e.js",
+    "runtime~main.js.map": "/asure-solutions-frontend/static/js/runtime~main.f31d0e9e.js.map",
+    "static/js/2.b869df24.chunk.js": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js",
+    "static/js/2.b869df24.chunk.js.map": "/asure-solutions-frontend/static/js/2.b869df24.chunk.js.map",
+    "index.html": "/asure-solutions-frontend/index.html",
+    "precache-manifest.20c623566d804a88e02b84136b7a6601.js": "/asure-solutions-frontend/precache-manifest.20c623566d804a88e02b84136b7a6601.js",
+    "service-worker.js": "/asure-solutions-frontend/service-worker.js",
+    "static/css/main.a000e6e0.chunk.css.map": "/asure-solutions-frontend/static/css/main.a000e6e0.chunk.css.map",
+    "static/media/LTD.png": "/asure-solutions-frontend/static/media/LTD.85547eb4.png",
+    "static/media/clock-line.svg": "/asure-solutions-frontend/static/media/clock-line.70dac5b9.svg",
+    "static/media/firewall-line.svg": "/asure-solutions-frontend/static/media/firewall-line.df1b3594.svg",
+    "static/media/group-photo.png": "/asure-solutions-frontend/static/media/group-photo.ff1930c6.png",
+    "static/media/lightbulb-line.svg": "/asure-solutions-frontend/static/media/lightbulb-line.ebd7826e.svg",
+    "static/media/logo.png": "/asure-solutions-frontend/static/media/logo.9dbb92a4.png",
+    "static/media/shopping-bag-line.svg": "/asure-solutions-frontend/static/media/shopping-bag-line.532053d6.svg",
+    "static/media/slideshow1.png": "/asure-solutions-frontend/static/media/slideshow1.e0e3ee1e.png"
+  }
+}
